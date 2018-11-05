@@ -160,7 +160,8 @@ Top 20 phrases across all documents (most docs):
 	dull yellow fluorescence     38
 	dtype: int64
 
-Top phrases (hits and docs): 
+Top phrases (hits and docs):  
+ 
 	as cut f  
 	bl wh cut  
 	bl wh f  
