@@ -110,3 +110,82 @@ Top phrases (hits and docs):
 	yel brn
 	yel f
 	yel wh
+	
+Update: Trigrams finally finished.
+Top 20 phrases across all documents (most hits): 
+
+	bl wh f                   492.0
+	yel wh f                  418.0
+	wh cut f                  346.0
+	dull yel f                236.0
+	as cut f                  233.0
+	wh cut fluor              225.0
+	bl wh cut                 210.0
+	dk yel brn                207.0
+	white cut f               199.0
+	blue white f              194.0
+	blue white fluor          193.0
+	dull yel fluor            192.0
+	bl wh fluor               186.0
+	yel wh cut                181.0
+	white cut fluor           179.0
+	brn oil stn               155.0
+	dark yellow brown         150.0
+	f very fine               145.0
+	wk bl wh                  141.0
+	white cut fluorescence    138.0
+	dtype: float64
+	
+Top 20 phrases across all documents (most docs): 
+
+	as cut f                    102
+	f very fine                  79
+	pale yellow brown            70
+	dark yellow brown            62
+	f hydrocarbon show           61
+	wh cut f                     60
+	dk yel brn                   59
+	white cut f                  57
+	white cut fluor              53
+	yel wh f                     53
+	dull yellow f                51
+	dull yel f                   51
+	dark yellowish brown         49
+	dull yellow fluor            49
+	white cut fluorescence       47
+	yellow white f               45
+	yel wh cut                   44
+	yellow white fluor           43
+	wh cut fluor                 41
+	dull yellow fluorescence     38
+	dtype: int64
+
+Top phrases (hits and docs): 
+	as cut f
+	bl wh cut
+	bl wh f
+	bl wh fluor
+	blue white f
+	blue white fluor
+	brn oil stn
+	dark yellow brown
+	dark yellowish brown
+	dk yel brn
+	dull yel f
+	dull yel fluor
+	dull yellow f
+	dull yellow fluor
+	dull yellow fluorescence
+	f hydrocarbon show
+	f very fine
+	pale yellow brown
+	wh cut f
+	wh cut fluor
+	white cut f
+	white cut fluor
+	white cut fluorescence
+	wk bl wh
+	yel wh cut
+	yel wh f
+	yellow white f
+	yellow white fluor
