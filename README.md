@@ -161,32 +161,33 @@ Top 20 phrases across all documents (most docs):
 	dtype: int64
 
 Top phrases (hits and docs): 
-	as cut f
-	bl wh cut
-	bl wh f
-	bl wh fluor
-	blue white f
-	blue white fluor
-	brn oil stn
-	dark yellow brown
-	dark yellowish brown
-	dk yel brn
-	dull yel f
-	dull yel fluor
-	dull yellow f
-	dull yellow fluor
-	dull yellow fluorescence
-	f hydrocarbon show
-	f very fine
-	pale yellow brown
-	wh cut f
-	wh cut fluor
-	white cut f
-	white cut fluor
-	white cut fluorescence
-	wk bl wh
-	yel wh cut
-	yel wh f
-	yellow white f
-	yellow white fluor
+	as cut f  
+	bl wh cut  
+	bl wh f  
+	bl wh fluor  
+	blue white f  
+	blue white fluor  
+	brn oil stn  
+	dark yellow brown  
+	dark yellowish brown  
+	dk yel brn  
+	dull yel f  
+	dull yel fluor  
+	dull yellow f  
+	dull yellow fluor  
+	dull yellow fluorescence  
+	f hydrocarbon show  
+	f very fine  
+	pale yellow brown  
+	wh cut f  
+	wh cut fluor  
+	white cut f  
+	white cut fluor  
+	white cut fluorescence  
+	wk bl wh  
+	yel wh cut  
+	yel wh f  
+	yellow white f  
+	yellow white fluor  
+  
 	
